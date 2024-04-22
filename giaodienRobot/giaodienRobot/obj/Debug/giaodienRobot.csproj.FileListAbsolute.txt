@@ -1,0 +1,11 @@
+D:\C#\giaodienRobot\giaodienRobot\bin\Debug\giaodienRobot.exe.config
+D:\C#\giaodienRobot\giaodienRobot\bin\Debug\giaodienRobot.exe
+D:\C#\giaodienRobot\giaodienRobot\bin\Debug\giaodienRobot.pdb
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.csproj.AssemblyReference.cache
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.Form1.resources
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.Properties.Resources.resources
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.csproj.GenerateResource.cache
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.csproj.CoreCompileInputs.cache
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.exe
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.pdb
+D:\C#\giaodienRobot\giaodienRobot\obj\Debug\giaodienRobot.Form2.resources
